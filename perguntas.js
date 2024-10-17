@@ -1,15 +1,15 @@
 criarCartao(
     'programaçâo',
-    'o que é puthon',
+    'o que é python',
     'o pythin é uma linguagem de promação'
 )
 criarCartao(
     'programaçâo',
-    'o que é puthon',
-    'o pythin é uma linguagem de promação'
+    'qual é a capital da frança',
+    'a capital da França e Paris'
 )
 criarCartao(
     'programaçâo',
-    'o que é puthon',
-    'o pythin é uma linguagem de promação'
+    'o que é uma função?',
+    'uma função é um bloco de codigo que exculta uma tarefa'
 )
