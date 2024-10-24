@@ -1,15 +1,15 @@
-criarCartao(
-    'programaçâo',
+criaCartao(
+    'programação',
     'o que é python',
-    'o pythin é uma linguagem de promação'
+    'o python é uma linguagem de promação'
 )
-criarCartao(
-    'programaçâo',
+criaCartao(
+    'programação',
     'qual é a capital da frança',
     'a capital da França e Paris'
 )
-criarCartao(
-    'programaçâo',
+criaCartao(
+    'programação',
     'o que é uma função?',
     'uma função é um bloco de codigo que exculta uma tarefa'
 )
